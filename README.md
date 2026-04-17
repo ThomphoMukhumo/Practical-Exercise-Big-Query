@@ -1,1 +1,0 @@
-# Practical-Exercise-Big-Query
